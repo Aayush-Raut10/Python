@@ -1,5 +1,7 @@
-#Getting two numbers as input from user
+#python program to find the sum of two numbers
 
+
+#Getting two numbers as input from user
 num1 = int(input("Enter number1: "))
 num2 = int(input("Enter numbr2: "))
 
