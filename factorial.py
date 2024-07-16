@@ -1,4 +1,4 @@
-#Python program to find the factorial using funtion
+#Python program to find the factorial using function
 
 
 num = int(input("Enter any positive integer: "))
