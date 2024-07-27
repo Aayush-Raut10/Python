@@ -1,3 +1,4 @@
+#python program demostrating elif conditional statement 
 #Getting maks input from user
 
 marks = int(input("Enter the marks = "))
